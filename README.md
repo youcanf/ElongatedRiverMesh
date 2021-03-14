@@ -1,5 +1,5 @@
 # ElongatedRiverMesh  
-### Prerequist packages  
+### Prerequisite packages  
 os\
 numpy\
 traceback\
