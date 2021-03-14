@@ -1,4 +1,6 @@
 # ElongatedRiverMesh  
+Currently it only supports building elongated mesh for ADCIRC. It is in a working product. Take it as it is. No guarantee of the outcome.
+
 ### Prerequisite packages  
 os\
 numpy\
