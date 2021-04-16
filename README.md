@@ -24,7 +24,7 @@ gc
 
 (7) (Python ‘Sort_Trace_DS’ tool + ArcGIS ‘Sort’ function) Use the ‘Sort_Trace_DS’ tool to trace downstream and compute the order (SortID) of the stream segments (e.g. ExampleFiles/NHD_XS_pts_split2_joined_ranked.shp). Then use ‘Sort’ function to sort segments of the updated NHD stream centerlines by SortID field (e.g. ExampleFiles/NHD_XS_pts_split2_joined_sorted_half.shp).
 
-## 2. Flowlines_BuildXS_weir24_customerized.py  
+## 2. Flowlines_BuildXS_weir24_customized.py  
 Use the sorted NHD stream centerline with the channel geometry as the input, run the python script to generate the quadrilaterals that can be read in ADCIRC (e.g. ExampleFiles/fort14_quadrils_interpolated.14).
 
 Major parameters:  
