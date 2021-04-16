@@ -1,4 +1,4 @@
-#// Flowlines_BuildXS_weir24_customerized
+#// Flowlines_BuildXS_weir24_customized
 #// Author: Youcan Feng
 #// Create Date: 5/7/2020
 #// Purpose: prototype to build trapezoidal channel XS based on NHD streamline
